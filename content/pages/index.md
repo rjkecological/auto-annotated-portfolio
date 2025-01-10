@@ -81,6 +81,7 @@ sections:
       actions:
         justifyContent: flex-end
     subtitle: Projects
+    title: TIKTOK
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
