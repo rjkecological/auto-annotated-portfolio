@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: "YOUTUBE\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_TIKTOK\_ \_ \_ \_ \_ \_ \_ \_ \_VELOMOBILEBAY\_ \_ \_ \_ \_ \_ \_ \_ \_ \_VBAY\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_WASIHOUSE"
+    title: "YOUTUBE\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ TIKTOK\_ \_ \_ \_ \_ \_ \_ \_ VELOMOBILEBAY\_ \_ \_ \_ \_ \_ \_ \_ \_ VBAY\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ WASIHOUSE"
     subtitle: This is my info
     styles:
       self:
