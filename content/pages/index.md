@@ -98,7 +98,7 @@ sections:
     colors: colors-d
     variant: variant-b
     title: The Section Title
-    subtitle: The section subtitle
+    subtitle: ''
     text: ''
     elementId: ''
     styles:
