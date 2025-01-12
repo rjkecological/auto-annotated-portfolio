@@ -49,13 +49,6 @@ sections:
       type: FormBlock
       title: Title of the form
       fields:
-        - type: TextFormControl
-          name: name
-          label: Name
-          hideLabel: false
-          placeholder: Your name
-          width: 1/2
-          isRequired: true
         - type: EmailFormControl
           name: email
           label: Email
