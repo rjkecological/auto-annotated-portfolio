@@ -35,7 +35,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: The Section Title
+    title: TIKTOK
     text: ''
     elementId: ''
     styles:
