@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: YOUTUBE TIKTOK
-    subtitle: This is my info
+    subtitle: ''
     styles:
       self:
         height: auto
