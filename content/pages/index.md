@@ -32,29 +32,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: TextSection
-    colors: colors-d
-    variant: variant-b
-    title: The Section Title
-    subtitle: ''
-    text: ''
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-3
-          - pb-3
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
