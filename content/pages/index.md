@@ -45,34 +45,6 @@ sections:
     type: HeroSection
     actions: []
     text: ''
-    media:
-      type: FormBlock
-      title: Title of the form
-      fields:
-        - type: EmailFormControl
-          name: email
-          label: Email
-          hideLabel: false
-          placeholder: Your email
-          width: 1/2
-          isRequired: true
-        - type: TextareaFormControl
-          name: message
-          label: Message
-          hideLabel: false
-          placeholder: Type your message here
-          width: full
-          isRequired: false
-        - type: CheckboxFormControl
-          name: updates
-          label: Sign me up to receive updates
-          width: full
-          isRequired: false
-      submitLabel: Send Message
-      elementId: contact-form
-      styles:
-        submitLabel:
-          textAlign: left
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
