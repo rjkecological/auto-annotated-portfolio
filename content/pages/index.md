@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: YOUTUBE
+    title: YOUTUBE TIKTOK
     subtitle: This is my info
     styles:
       self:
